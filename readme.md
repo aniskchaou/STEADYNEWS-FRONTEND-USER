@@ -1,24 +1,10 @@
+# SmartLab
 
+SmartLab is a web application that allows you to manage a laboratory
 
-## Description
-
-simple employee management system 
-
-## Demo
-https://simple-employee-man.herokuapp.com/list
-
-  
-## Screenshots
-<p align="center">
-
-![enter image description here](employee-management.JPG)
-
-</p>
-
-## Source code
-https://github.com/aniskchaou/EMPLOYEE-MANAGEMENT-NODEJS 
-  
-
-## Technologies
-
-Node Js, Express, Node-postgres, Express-handlebars
+## Informations:
+- Status: under development
+- Lastest version: 1.0
+- Sector: medical
+- Created: October 2020
+- Last updated: October 2020
